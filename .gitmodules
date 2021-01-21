@@ -1,0 +1,3 @@
+[submodule "child1"]
+	path = steven1041
+	url = https://github.com/steven1041/childModule.git
